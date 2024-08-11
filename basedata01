@@ -1,0 +1,29 @@
+#1st program
+
+print((9**0.5) * 5)
+
+
+#2nd program
+
+x = 9.99
+x1 = 9.98
+print( x > x1)
+
+a = 1000
+a1 = 1000.1
+print(a != a1)
+
+
+#3rd program
+
+b = 2 * 2 + 2
+b1 = 2 * (2 + 2)
+print(b)
+print(b1)
+print(b == b1)
+
+
+#4th program
+
+string_a = '123.456'
+print(string_a[4])
